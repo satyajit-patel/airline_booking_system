@@ -9,6 +9,14 @@ It was an interesting project to explore microservices as I was able to see logi
 Also a booking system is good to learn transactional data handling in rdbms.
 I explored repository pattern and service layers along with autoscaling as microservices allow us to scale up individual services whenever reqd. 
 
+## 💻 Tech Stack
+
+- Javascript
+- HTML
+- CSS
+- ExpressJs
+- NodeJs
+
 ## Objectives
 - Ticket Management
 - Real time system for ticket management
